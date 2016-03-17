@@ -1,0 +1,28 @@
+{
+  "resources": [
+    "sprite/sounds.ogg",
+    "sprite/sounds.mp3"
+  ],
+  "spritemap": {
+    "coin": {
+      "start": 0,
+      "end": 0.2742857142857143,
+      "loop": false
+    },
+    "dead": {
+      "start": 2,
+      "end": 2.5732426303854874,
+      "loop": false
+    },
+    "menu": {
+      "start": 4,
+      "end": 5.063764172335601,
+      "loop": false
+    },
+    "wings": {
+      "start": 7,
+      "end": 7.4629478458049885,
+      "loop": false
+    }
+  }
+}
