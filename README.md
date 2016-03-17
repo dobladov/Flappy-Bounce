@@ -1,6 +1,6 @@
 # Flappy Bounce
 
-Small [Phaser](phaser.io) game based on the flash game [Flappybalt]("http://haxeflixel.com/demos/Flappybalt/").
+Small [Phaser](phaser.io) game based on the flash game [Flappybalt](http://haxeflixel.com/demos/Flappybalt/) .
 
 ## Usage
 
@@ -22,6 +22,12 @@ inide the Flappy-Bounce folder.
 +   [Raven](http://opengameart.org/content/owl-and-raven-sprites)
 +   [Background](https://openclipart.org/detail/170137/old-city-background)
 +   [Sounds](http://www.freesound.org/)
+
+## ToDo
+
++   [ ] Fit to window on mobile
++   [ ] Minimize and concatenate JS
++   [ ] Generate a "Production" version
 
 ## About
 
