@@ -13,9 +13,9 @@ inide the Flappy-Bounce folder.
 
 ## Screenshots
 
-![Capture 1](https://my.mixtape.moe/ttlbau.png)
+![Capture 1](https://user-images.githubusercontent.com/1938043/71447093-f625bf00-272a-11ea-9cd6-074b4f482a14.png)
 
-![Capture 2](https://my.mixtape.moe/xjcwpd.png)
+![Capture 2](https://user-images.githubusercontent.com/1938043/71447128-32f1b600-272b-11ea-89dc-b58ccca02c18.png)
 
 ## Assets
 
@@ -38,7 +38,3 @@ inide the Flappy-Bounce folder.
 The atlas image was create with [Leshy SpriteSheet Tool](http://www.leshylabs.com/apps/sstool/)
 
 For the audio sprite I use [Audiosprite](https://github.com/tonistiigi/audiosprite)
-
----
-
-![Game Over](https://my.mixtape.moe/emgrph.gif)
